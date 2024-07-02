@@ -1,0 +1,3959 @@
+[
+  {
+    "ExamNumber": "S4459/0001",
+    "Points": "14",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'C'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0002",
+    "Points": "15",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0003",
+    "Points": "14",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'D'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0004",
+    "Points": "8",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'B'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0005",
+    "Points": "10",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0006",
+    "Points": "12",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0007",
+    "Points": "13",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0008",
+    "Points": "18",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0009",
+    "Points": "15",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'D'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0010",
+    "Points": "11",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0011",
+    "Points": "15",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0012",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ADD MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0013",
+    "Points": "18",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'D'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'F'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0014",
+    "Points": "11",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ADD MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0015",
+    "Points": "10",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0016",
+    "Points": "19",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'D'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'D'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0017",
+    "Points": "8",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0018",
+    "Points": "9",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0019",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'A'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ADD MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0020",
+    "Points": "9",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ADD MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0021",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0022",
+    "Points": "12",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0023",
+    "Points": "20",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'C'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'F'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0024",
+    "Points": "8",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0025",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'D'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0026",
+    "Points": "13",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0027",
+    "Points": "10",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0028",
+    "Points": "19",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'C'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0029",
+    "Points": "15",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'D'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0030",
+    "Points": "11",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0031",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0032",
+    "Points": "10",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0033",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0034",
+    "Points": "14",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'F'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0035",
+    "Points": "8",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ADD MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0036",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0037",
+    "Points": "9",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0038",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ADD MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0039",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'B'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ADD MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0040",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0041",
+    "Points": "12",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0042",
+    "Points": "12",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0043",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'A'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ADD MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0044",
+    "Points": "12",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'D'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0045",
+    "Points": "8",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0046",
+    "Points": "9",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0047",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'A'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ADD MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0048",
+    "Points": "13",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0049",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0050",
+    "Points": "8",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0051",
+    "Points": "11",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0052",
+    "Points": "17",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0053",
+    "Points": "11",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0054",
+    "Points": "10",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'D'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0055",
+    "Points": "8",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0056",
+    "Points": "16",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0057",
+    "Points": "10",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0058",
+    "Points": "12",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0059",
+    "Points": "21",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'C'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'D'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'D'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0060",
+    "Points": "10",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0061",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'B'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ADD MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0062",
+    "Points": "14",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0063",
+    "Points": "19",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'D'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0064",
+    "Points": "10",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0065",
+    "Points": "7",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'B'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ADD MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0066",
+    "Points": "18",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0067",
+    "Points": "11",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0068",
+    "Points": "11",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0069",
+    "Points": "19",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'C'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'D'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0070",
+    "Points": "17",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'C'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'D'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0071",
+    "Points": "9",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0072",
+    "Points": "21",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'C'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'D'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'D'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0073",
+    "Points": "17",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0074",
+    "Points": "16",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0075",
+    "Points": "9",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0076",
+    "Points": "9",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0077",
+    "Points": "15",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'C'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'D'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0078",
+    "Points": "18",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'C'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'D'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'D'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0079",
+    "Points": "14",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'D'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0080",
+    "Points": "15",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0081",
+    "Points": "12",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'B'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0082",
+    "Points": "15",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'A'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'C'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0083",
+    "Points": "15",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'B'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KNOWL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'D'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'D'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0084",
+    "Points": "20",
+    "Division": "II",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'C'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'C'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'B'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'C'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'C'"
+      },
+      {
+        "subject": "LIT ENG",
+        "grade": "'D'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'C'"
+      },
+      {
+        "subject": "COMM",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "'C'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0085",
+    "Points": "9",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'B'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'B'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0086",
+    "Points": "9",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'A'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "AGRI",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'B'"
+      }
+    ]
+  },
+  {
+    "ExamNumber": "S4459/0087",
+    "Points": "9",
+    "Division": "I",
+    "Subjects": [
+      {
+        "subject": "CIV",
+        "grade": "'A'"
+      },
+      {
+        "subject": "HIST",
+        "grade": "'B'"
+      },
+      {
+        "subject": "GEO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "KISW",
+        "grade": "'B'"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "'B'"
+      },
+      {
+        "subject": "PHY",
+        "grade": "'C'"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "'A'"
+      },
+      {
+        "subject": "BIO",
+        "grade": "'A'"
+      },
+      {
+        "subject": "COMP STUD",
+        "grade": "'C'"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "'A'"
+      }
+    ]
+  }
+]
